@@ -1,2 +1,2 @@
-# Delivery-Game-Project
+# Game-Project
 small delivery game project 
